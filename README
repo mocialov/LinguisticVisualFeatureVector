@@ -1,1 +1,2 @@
-Objective: Generate [[DEZ, ORI, SIG, TAB, NMS]] from an array of the OpenPose features, extracted for every frame
+Objective: Generate categorical [[DEZ, ORI, SIG, TAB, NMS]] from an array of the OpenPose features, extracted for every frame
+Objective: come up with categories based on the HamNoSys definition for every parameter (i.e. DEZ, ORI, etc.)
