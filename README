@@ -1,2 +1,4 @@
 Objective: Generate categorical [[DEZ, ORI, SIG, TAB, NMS]] from an array of the OpenPose features, extracted for every frame
 Objective: come up with categories based on the HamNoSys definition for every parameter (i.e. DEZ, ORI, etc.)
+
+https://colab.research.google.com/drive/1d6SCtl_OTZS1rh2lSXcfR6MfCuBR73CW
